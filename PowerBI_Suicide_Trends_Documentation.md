@@ -1,5 +1,6 @@
 Project Overview
-This project is a Power BI-based interactive dashboard that visually analyzes suicide trends across the United States. It provides deep insights into suicide rates by age, gender,
+
+This project is a Power BI based interactive dashboard that visually analyzes suicide trends across the United States. It provides deep insights into suicide rates by age, gender,
 race, region, and time period, as well as highlights disparities and contributing factors.
 
 How to Download and Open the PBIX File
