@@ -15,7 +15,7 @@ Click the Download button (top-right) to save it locally.
 
 Install Power BI Desktop
 
-If not already installed, download Power BI Desktop from here.
+If not already installed, download Power BI Desktop from here. https://www.microsoft.com/en-us/download/details.aspx?id=58494
 
 Open the File
 
