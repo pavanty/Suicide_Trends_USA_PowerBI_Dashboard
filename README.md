@@ -1,1 +1,2 @@
-![image](https://github.com/user-attachments/assets/bd1a6e9a-47e3-4f5f-88b0-ac2ab4f7ee7d)
+
+[Pavan T Y Suicide In USA Dashboard.pdf](https://github.com/user-attachments/files/19743913/Pavan.T.Y.Suicide.In.USA.Dashboard.pdf)
